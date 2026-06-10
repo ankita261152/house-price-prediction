@@ -1,0 +1,55 @@
+# Python
+
+.venv/
+venv/
+env/
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# React / Node.js
+
+node_modules/
+house-price-frontend/node_modules/
+
+# Build folders
+
+build/
+dist/
+
+# VS Code
+
+.vscode/
+
+# Environment variables
+
+.env
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+npm-debug.log*
+
+# Temporary files
+
+*.tmp
+
+# Python cache
+
+.pytest_cache/
+
+# Coverage reports
+
+.coverage
+htmlcov/
